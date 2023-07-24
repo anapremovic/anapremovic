@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://discordapp.com/users/468862480144400394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArcRanger#4205" height="30" width="40" /></a>
 <a href="https://leetcode.com/arcranger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arcranger/" height="30" width="40" /></a>
-<a href="https://learn.microsoft.com/en-ca/users/anapremovic-3093/transcript/7xxw6iwlzpeyyny" target="blank"><img align="center" src="" alt="https://learn.microsoft.com/en-ca/users/anapremovic-3093/transcript/7xxw6iwlzpeyyny" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/en-ca/users/anapremovic-3093/transcript/7xxw6iwlzpeyyny" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_logo.jpg" alt="https://learn.microsoft.com/en-ca/users/anapremovic-3093/transcript/7xxw6iwlzpeyyny" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
