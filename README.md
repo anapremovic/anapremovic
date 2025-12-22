@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ana.n.premovic@gmail.com**
 
-- 📄 Know about my experiences - [resume](https://drive.google.com/file/d/1sD82WPEajD5yUjkgJJUAKJHR6b_UGqql/view?usp=sharing)
+- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1H3BCMMisfaOV8xu8-WJe4dltIwKBCWD7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
