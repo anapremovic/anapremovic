@@ -7,9 +7,9 @@
 🔭 I’m currently working on [sample project](link)
 -->
 
-- 📫 How to reach me **ana.n.premovic@gmail.com**
+- 📫 Reach me at apa109@sfu.ca
 
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/18nCIvPYm2MMwLQegcuoUxky66vjmYg6E/view?usp=sharing)
+- 📄 View my experiences on my [resume](https://drive.google.com/file/d/1wGvWvoz5kc4p8JiGLo-BoPHy_bz-hrre/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <table>
